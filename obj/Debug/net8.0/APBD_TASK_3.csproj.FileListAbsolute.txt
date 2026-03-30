@@ -1,0 +1,15 @@
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.AssemblyInfoInputs.cache
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.AssemblyInfo.cs
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.csproj.CoreCompileInputs.cache
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.sourcelink.json
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\bin\Debug\net8.0\APBD_TASK_3.exe
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\bin\Debug\net8.0\APBD_TASK_3.deps.json
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\bin\Debug\net8.0\APBD_TASK_3.runtimeconfig.json
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\bin\Debug\net8.0\APBD_TASK_3.dll
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\bin\Debug\net8.0\APBD_TASK_3.pdb
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.dll
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\refint\APBD_TASK_3.dll
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.pdb
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\APBD_TASK_3.genruntimeconfig.cache
+C:\Users\Keyvan\Desktop\APBD\University project\APBD_TASK3_v2\obj\Debug\net8.0\ref\APBD_TASK_3.dll
